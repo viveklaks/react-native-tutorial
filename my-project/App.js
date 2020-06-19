@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   item: {
-    flex: 1,
+    //flex: 1,
     marginHorizontal: 10,
     marginTop: 24,
     padding: 30,
